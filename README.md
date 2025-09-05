@@ -3,11 +3,11 @@
 # TUI Dashboard
 
 A personal, terminal-based dashboard built with the Python [Textual](https://github.com/Textualize/textual) framework. This application integrates your calendar, tasks, service statuses, and common command-line tools into a single, efficient, and navigable interface.
-![Screenshot](".\img\Screenshot1.png") 
-![Screenshot](".\img\Screenshot2.png") 
-![Screenshot](".\img\Screenshot3.png") 
-![Screenshot](".\img\Screenshot4.png") 
-![Screenshot](".\img\Screenshot5.png") 
+![Screenshot](.\img\Screenshot1.png) 
+![Screenshot](.\img\Screenshot2.png) 
+![Screenshot](.\img\Screenshot3.png) 
+![Screenshot](.\img\Screenshot4.png) 
+![Screenshot](.\img\Screenshot5.png) 
 ## Features
 
   * **Home Tab**: A consolidated view displaying your `gcalcli` agenda and `taskbook` items side-by-side.
